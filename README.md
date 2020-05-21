@@ -1,4 +1,4 @@
-# GPA-CGPA-calculator
+
 ## Assuming React Native is properly set up: 
 ### If not Refer -> [React Native](https://reactnative.dev/docs/environment-setup) and  [Expo](https://expo.io/learn) 
 ### To run This app :
