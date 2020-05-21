@@ -10,6 +10,7 @@ expo init 'NAME OF APP'
 2) And copy any new file which are not present.
 ###### 3) Open termial again in projects directory:
 ```
+npm install
 npm start
 ```
 Wait....
