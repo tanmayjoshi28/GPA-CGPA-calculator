@@ -15,3 +15,4 @@ npm start
 ```
 Wait....
 Scan the QR with Expo app. 
+If facing sdk error - Change sdk version in app.json to the one installed in your PC .
